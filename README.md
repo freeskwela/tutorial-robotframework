@@ -1,2 +1,1 @@
-# tutorial-robotframework
-Tutorial on using Robot Framework for automated testing
+# Robot Framework for Embedded Software Testing :: Project Environment and Training Materials
